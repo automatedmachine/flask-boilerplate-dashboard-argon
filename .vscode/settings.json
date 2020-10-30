@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/nate/miniconda3/envs/argon/bin/python",
+    "files.associations": {
+          "*.html": "jinja-html"
+    }
+}
